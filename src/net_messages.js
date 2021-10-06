@@ -1,4 +1,4 @@
-export const NET_MESSAGE = {
+const NET_MESSAGE = {
 	CONNECT: "connect",
 	ID: "identity",
 	CONNECT_ERRROR: "connect_error",
@@ -39,3 +39,5 @@ export const NET_MESSAGE = {
 	POSTMATCH_PLAYER_UPDATE: "postmatch_player_update"
 
 }
+
+module.exports = NET_MESSAGE;
