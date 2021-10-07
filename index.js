@@ -1,1 +1,1 @@
-module.exports = require('./lib/chrono-shared')
+module.exports.NET_MESSAGES = require('./lib/net/net_messages')
