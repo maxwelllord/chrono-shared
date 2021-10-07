@@ -1,0 +1,19 @@
+{
+  "name": "chrono-shared",
+  "version": "1.0.0",
+  "description": "Some stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxwelllord/chrono-shared.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxwelllord/chrono-shared/issues"
+  },
+  "homepage": "https://github.com/maxwelllord/chrono-shared#readme"
+}
